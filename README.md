@@ -1,5 +1,5 @@
 
-# Kubernetes_P1 Learning Project 
+# Kubernetes Learning Project-- kubernetes_P1
 
 This project is a structured, hands-on journey through the most important topics in **Kubernetes**, built to deepen my understanding and serve as a personal reference.
 
